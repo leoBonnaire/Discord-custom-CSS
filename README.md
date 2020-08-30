@@ -1,6 +1,7 @@
 # Discord custom CSS : JS manager
 
 The command.js file is where you can change the internal CSS from discord using native JS.
+
 You also have the raw Discord CSS in raw.css.
 
 ## How to use
